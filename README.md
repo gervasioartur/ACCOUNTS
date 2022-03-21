@@ -27,3 +27,10 @@
 
   linkedin: https://www.linkedin.com/in/gervasio-artur-dombo
 </p>
+<h2>Some images running the projet</h2>
+
+![Screenshot from 2022-03-21 05-20-40](https://user-images.githubusercontent.com/90800218/159232119-0837046c-5efe-477c-a853-f36e90ec1012.png)
+
+
+
+
